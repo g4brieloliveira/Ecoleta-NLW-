@@ -11,7 +11,3 @@
 <li>Express</li>
 <li>Nunjucks</li>
 <li>SQLite</li>
-
-<h2>Features a serem adicionadas:</h2>
-<li> Fazer o login com senha no seu local de coleta </li>
-<li> Deletar local de coleta a pertir do seu login </li>
